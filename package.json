@@ -1,0 +1,21 @@
+{
+  "name": "zhiqiang21.github.io",
+  "version": "1.0.0",
+  "description": "zhiqiang's personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start:dev": "hugo server -D",
+    "build:publish": "hugo -D"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqiang21/zhiqiang21.github.io.git"
+  },
+  "author": "hpuhouzhiqiang.@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiqiang21/zhiqiang21.github.io/issues"
+  },
+  "homepage": "https://github.com/zhiqiang21/zhiqiang21.github.io#readme"
+}
